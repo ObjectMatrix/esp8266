@@ -2,7 +2,7 @@
 
 Important note: 
 - Use Board Manager Module ESP8266 (version: 2.5.0)  Tools->Board->Board Manager
-![board manager](esp8266-esp-01-board-manager)
+![board manager](./esp8266-esp-01-board-manager.png)
 - Remove GPIO 0 from ground after loading sketch
 - Use RST to reset/restart when necessary
 
