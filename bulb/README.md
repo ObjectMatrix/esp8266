@@ -13,7 +13,7 @@ Important note:
 
 
 ## Recomendation
-Use on of this from inLand for UART download, easier, faster than Arduino based board)
+Use on of this ESP8266 ESP-01 USB Serial Programmer, it's easier, faster than Arduino based board.
 
 ![UART Uploader](./serial.png)
 
