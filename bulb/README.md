@@ -15,6 +15,6 @@ Important note:
 ## Recomendation
 Use on of this from inLand for UART download, easier, faster than Arduino based board)
 
-![UART Uploader](./uart-uploader.png)
+![UART Uploader](./serial.png)
 
 
