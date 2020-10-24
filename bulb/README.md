@@ -7,3 +7,14 @@ Important note:
 - Use RST to reset/restart when necessary
 
 
+## ESP8288 (ESP-01) pin configuration
+
+![pins](./ESP8266 Pins.png)
+
+
+## Recomendation
+Use on of this from inLand for UART download, easier, faster than Arduino based board)
+
+![UART Uploader](./uart-uploader.png)
+
+
