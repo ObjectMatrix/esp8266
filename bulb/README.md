@@ -9,7 +9,7 @@ Important note:
 
 ## ESP8288 (ESP-01) pin configuration
 
-![pins](./ESP8266 Pins.png)
+![pins](https://github.com/ObjectMatrix/esp8266/blob/main/bulb/ESP8266%20Pins.png)
 
 
 ## Recomendation
