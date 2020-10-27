@@ -19,4 +19,4 @@ Use on of this ESP8266 ESP-01 USB Serial Programmer, it's easier, faster than Ar
 
 
 ## Do not forget
-Select required Serial Port when swich between board
+Select required Serial Port when switching between boards
