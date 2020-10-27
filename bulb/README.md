@@ -18,3 +18,5 @@ Use on of this ESP8266 ESP-01 USB Serial Programmer, it's easier, faster than Ar
 ![UART Uploader](./serial.png)
 
 
+## Do not forget
+Select required Serial Port when swich between board
