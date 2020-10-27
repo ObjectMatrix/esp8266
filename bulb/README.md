@@ -20,3 +20,8 @@ Use on of this ESP8266 ESP-01 USB Serial Programmer, it's easier, faster than Ar
 
 ## Do not forget
 Select required Serial Port when switching between boards
+
+## Preferences (comma separated, for different boards, exaple: ESP8266 (ESP-01), ESP32):  
+Example:
+- https://dl.espressif.com/dl/package_esp32_index.json,
+- http://arduino.esp8266.com/stable/package_esp8266com_index.json
