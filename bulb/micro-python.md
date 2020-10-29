@@ -49,3 +49,7 @@ Using the REPL is by far the easiest way to test out your code and run commands.
 There are two ways to access the REPL: either via a wired connection through the UART serial port, or via WiFi.
 
 `brew install repl`
+
+## Documents
+https://docs.micropython.org/en/latest/esp8266/tutorial/repl.html
+
