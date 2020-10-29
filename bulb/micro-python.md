@@ -12,7 +12,7 @@
 ## Write flash
 `esptool.py --port /dev/cu.wchusbserial2210 --baud 115200 write_flash --flash_size=detect -fm dio 0 ./esp8266-20190529-v1.11.bin`
 
-## Switch to `Flash Board` and wait for the Prompt (quite screen: Ctrl-A, CTRL-\)
+## Switch to `Flash Board` and wait for the Prompt (quite screen: Ctrl-A, CTRL-\\ )
 ```
 �aua�>��BG�EE�n�YB�eS�!�qs�cR!aG��
 >>> help()
