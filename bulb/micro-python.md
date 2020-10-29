@@ -53,3 +53,26 @@ There are two ways to access the REPL: either via a wired connection through the
 ## Documents
 https://docs.micropython.org/en/latest/esp8266/tutorial/repl.html
 
+
+## AMPY
+### create main.py with following contents
+
+`pip3 install adafruit-ampy`
+
+upload main.py to board
+`ampy --port /dev/cu.wchusbserial2210 put main.py /main.py`
+
+### main.py
+```
+import network
+sta_if = network.WLAN(network.STA_IF)
+ap_if = network.WLAN(network.AP_IF)
+sta_if.active()
+ap_if.active()
+ap_if.ifconfig()
+sta_if.active(True)
+sta_if.connect('XXXXXXXX', 'XXXXXXXX')
+sta_if.isconnected()
+sta_if.ifconfig()
+```
+
