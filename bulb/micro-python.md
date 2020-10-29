@@ -55,6 +55,9 @@ https://docs.micropython.org/en/latest/esp8266/tutorial/repl.html
 
 
 ## AMPY
+
+### Using ampy you can take Python code written on your computer and run it on a connected MicroPython board. This gives you a simple workflow for exploring MicroPython. Write code on your computer in your favorite text editor, then use ampy's run command to run it on a board!  
+
 ### create main.py with following contents
 
 `pip3 install adafruit-ampy`
@@ -65,6 +68,8 @@ upload main.py to board
 ### main.py
 ```
 import network
+import esp
+esp.osdebug(None)
 sta_if = network.WLAN(network.STA_IF)
 ap_if = network.WLAN(network.AP_IF)
 sta_if.active()
