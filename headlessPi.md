@@ -19,3 +19,7 @@ http://mapledyne.com/ideas/2015/8/4/reset-lost-admin-password-for-raspberry-pi
 
 
 
+## NODE_RED.  
+Play with the idea of node-red
+https://nodered.org/docs/
+
