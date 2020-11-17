@@ -3,4 +3,4 @@
 ![AWS IoT](images/home.png)
 
 ### Install Configure MQTT on Headless Raspberry pi
-https://github.com/ObjectMatrix/esp8266/edit/main/headlessPi.md
+https://github.com/ObjectMatrix/esp8266/blob/main/headlessPi.md
