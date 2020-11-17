@@ -1,5 +1,5 @@
 ## Setup a Headless Pi 
-On Your MAC. 
+# On Your MAC. 
 ![sd formatter](images/headlessPi.png)
 
 1. Install SD Card formatter and Raspberry pi imager on you mac
