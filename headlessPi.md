@@ -25,7 +25,7 @@ https://nodered.org/docs/
 
 
 ## Always Keep a Backup. 
-###. 1. Find the name of your SD card
+###  1. Find the name of your SD card
 $ diskutil list
 (/dev/disk1)
 
